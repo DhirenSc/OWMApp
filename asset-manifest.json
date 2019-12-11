@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/OWMApp/static/css/main.7a633c89.chunk.css",
+    "main.js": "/OWMApp/static/js/main.0db35447.chunk.js",
+    "main.js.map": "/OWMApp/static/js/main.0db35447.chunk.js.map",
+    "runtime-main.js": "/OWMApp/static/js/runtime-main.a9e3e5d0.js",
+    "runtime-main.js.map": "/OWMApp/static/js/runtime-main.a9e3e5d0.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/OWMApp/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.f25b539c.chunk.js": "/OWMApp/static/js/2.f25b539c.chunk.js",
+    "static/js/2.f25b539c.chunk.js.map": "/OWMApp/static/js/2.f25b539c.chunk.js.map",
+    "index.html": "/OWMApp/index.html",
+    "precache-manifest.12676d6d61e536029af6874bf939a81b.js": "/OWMApp/precache-manifest.12676d6d61e536029af6874bf939a81b.js",
+    "service-worker.js": "/OWMApp/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/OWMApp/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.7a633c89.chunk.css.map": "/OWMApp/static/css/main.7a633c89.chunk.css.map",
+    "static/js/2.f25b539c.chunk.js.LICENSE": "/OWMApp/static/js/2.f25b539c.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9e3e5d0.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.f25b539c.chunk.js",
+    "static/css/main.7a633c89.chunk.css",
+    "static/js/main.0db35447.chunk.js"
+  ]
+}
